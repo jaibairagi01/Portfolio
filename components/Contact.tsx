@@ -11,7 +11,7 @@ const Contact = () => {
       </p>
       <h2 className="font-titleFont text-5xl font-semibold">Get In Touch</h2>
       <p className="max-w-[600px] text-center text-textDark">
-        We would love to hear from you! Whether you have a question, feedback, or just want to say hello, our team is here to help. Connect with us today and lets start a conversation.
+        We would love to hear from you! Whether you have a question, feedback, or just want to say hello, I am here to help. Connect with us today and lets start a conversation.
       </p>
 
       <a href="mailto:jai.bairagi01@gmail.com">
